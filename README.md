@@ -2,9 +2,7 @@
 
 ## About Me
 
-👋 Hi, I'm Bhashitha Samarasinghe, an undergraduate student at the University of Moratuwa.  
-I am passionate about technology and innovation.  
-I’m interested in Web Design and currently studying for a **BSc (Hons) in Information Technology** at the **University of Moratuwa**.
+👋 Hi, I'm Bhashitha Samarasinghe, an undergraduate student at the University of Moratuwa. I am passionate about technology and innovation. I’m interested in Web Design and currently studying for a **BSc (Hons) in Information Technology** at the **University of Moratuwa**.
 
 ---
 
