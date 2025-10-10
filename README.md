@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bhashitha Samarasinghe
 
-<!--
-**BhashithaSamarasinghe/BhashithaSamarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👋 Hi, I'm Bhashitha Samarasinghe, an undergraduate student at the University of Moratuwa.  
+I am passionate about technology and innovation.  
+I’m interested in Web Design and currently studying for a **BSc (Hons) in Information Technology** at the **University of Moratuwa**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect With Me
+- 📧 Email: [bhashithasamarasinghe@gmail.com](mailto:bhashithasamarasinghe@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/bhashitha-samarasinghe](https://www.linkedin.com/in/bhashitha-samarasinghe-52b678260/)
